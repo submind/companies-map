@@ -1,2 +1,2 @@
 # companies-map
-map for nearby companies
+map for nearby companies.
